@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Iterator\Iterator\bin\Debug\Iterator.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Iterator\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Iterator\Iterator\bin\Debug\Iterator.exe
+c:\users\user\documents\visual studio 2013\Projects\Iterator\Iterator\bin\Debug\Iterator.pdb
+c:\users\user\documents\visual studio 2013\Projects\Iterator\Iterator\obj\Debug\Iterator.exe
+c:\users\user\documents\visual studio 2013\Projects\Iterator\Iterator\obj\Debug\Iterator.pdb
